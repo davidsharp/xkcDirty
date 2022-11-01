@@ -1,2 +1,4 @@
 # xkcDirty
-A dirty HTML/JS solution to pull and display the name of every XKCD comic
+A dirty Node.js solution to list the name of every XKCD comic
+
+run like: `node dirtyXkcd.js > xkcd.txt`
